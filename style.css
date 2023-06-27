@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: #200772;
+    color: white;
+    margin: 0px;
+    padding: 30px 0px 30px 0px;
+}
+
+h2 {
+    padding: 10px 0px 10px 20px;
+    margin: 0px; 
+    border: 2px dashed #200772;
+}
+
+.gallery{
+    background-color: #c9f76f;
+    padding: 30px 30px 30px 90px;
+}
+
+p img {
+    padding: 10px;
+}
+
+ul {
+    font-size: 20px;
+    padding: 20px 10px 20px 40px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #c9f76f;
+    padding: 10px;
+    padding-left: 40px;
+}
+
+footer img {
+    width: 60px;
+    padding-left: 15px;
+}
+
+
